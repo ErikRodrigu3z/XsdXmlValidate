@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XsdXmlValidate", "XsdXmlValidate\XsdXmlValidate.csproj", "{2FC8F9F3-4DED-4A04-B16A-F3B315A864DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC8F9F3-4DED-4A04-B16A-F3B315A864DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC8F9F3-4DED-4A04-B16A-F3B315A864DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC8F9F3-4DED-4A04-B16A-F3B315A864DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC8F9F3-4DED-4A04-B16A-F3B315A864DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4858DCF-AE37-4CA1-BE41-6606A53E208C}
+	EndGlobalSection
+EndGlobal

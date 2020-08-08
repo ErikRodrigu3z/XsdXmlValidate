@@ -1,0 +1,9 @@
+﻿<EmployeeDetails>
+    <FirstName>Sagar</FirstName>
+    <MiddleName>H</MiddleName>
+    <LastName>Shinde</LastName>    
+    <EmailId>sagarharidasshinde@gmail.com</EmailId>
+    <Mobile>9021063389</Mobile>
+    <Address>135/214, Hindustan Chowk, Mulund Colony, Mulund (W) - 400082</Address>
+    <Car>BMW</Car>
+</EmployeeDetails>
